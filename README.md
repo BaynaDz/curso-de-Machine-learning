@@ -8,4 +8,6 @@ dia 2
   1 is about Exploratory data analysis of Space X
   2 data visualization of Sapace X (Apolo 9)
 dia 3
-  1 
+  1 Introduction to Machine Learning with Scikit-Learn.
+  2 Prophet - Predict the value of Oil
+  3 Generating maps with Python. Folium
