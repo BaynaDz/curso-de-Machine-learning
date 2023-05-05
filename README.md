@@ -7,3 +7,5 @@ dia 1
 dia 2
   1 is about Exploratory data analysis of Space X
   2 data visualization of Sapace X (Apolo 9)
+dia 3
+  1 
