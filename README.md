@@ -11,3 +11,6 @@ dia 3
   1 Introduction to Machine Learning with Scikit-Learn.
   2 Prophet - Predict the value of Oil
   3 Generating maps with Python. Folium
+dia 4
+  1 Introducción a Machine Learning con Scikit-Learn
+  2  Interactive Visual Analytics con Folium
